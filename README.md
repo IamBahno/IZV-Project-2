@@ -21,3 +21,12 @@ This project is the second part of a university assignment focused on analyzing 
 - seaborn
 - matplotlib
 - zipfile
+
+### 🚗 Accidents involving impaired drivers vs all accidents by region
+![Accidents by region](01_alcohol.png)
+
+### 🧠 Accidents by type of driver impairment
+![Driver states](01_state.png)
+
+### 🐾 Accidents by cause (vehicle drivers, pedestrians, animals)
+![Accident causes](03_fault.png)
